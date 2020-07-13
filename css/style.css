@@ -30,3 +30,9 @@ h4 {
 hr {
   margin-bottom: 50px;
 }
+
+@media screen and (max-width: 768px) {
+  .spazio {
+    margin-bottom: 40px; 
+  }
+}
